@@ -4,8 +4,14 @@ body{
     background-size: 100%;
 }
 #intro{
-    background-color:saddlebrown;
+    background-color:whitesmoke;
     border: 5px solid black;
+    background-image:url('https://www.kitchentreaty.com/wp-content/uploads/2017/02/how-to-make-heart-shaped-pizzas-featured-660x430.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#tagLine{
+    text-align: center;
 }
 .guide {
     display: inline;
@@ -24,8 +30,6 @@ body{
     color: white;
 }
 #Today{
-    border: 5px solid black;
-    background-image:url('https://www.kitchentreaty.com/wp-content/uploads/2017/02/how-to-make-heart-shaped-pizzas-featured-660x430.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     text-align: center;
@@ -38,4 +42,7 @@ body{
 #sectionTitle{
     text-decoration: underline;
     text-align: center;
+}
+#visit{
+    background-color: white;
 }
