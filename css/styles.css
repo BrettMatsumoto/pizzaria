@@ -6,12 +6,15 @@ body{
 #intro{
     background-color:whitesmoke;
     border: 5px solid black;
-    background-image:url('https://www.kitchentreaty.com/wp-content/uploads/2017/02/how-to-make-heart-shaped-pizzas-featured-660x430.jpg');
+    background-image: url('https://previews.123rf.com/images/maryvalery/maryvalery1604/maryvalery160400016/55364035-pizza-seamless-pattern-delicious-slice-of-pizza-background-traditional-italian-food-ornament-texture.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
 }
-#tagLine{
-    text-align: center;
+#name{
+    text-align: right;
+}
+#name{
+    font-family: 'Oswald', sans-serif;
 }
 .guide {
     display: inline;
@@ -34,10 +37,13 @@ body{
     background-size: 100%;
     text-align: center;
     text-decoration: underline;
+    visibility: collapse;
 }
 #menu{
     border: 1px solid black;
-    background-image: url('https://previews.123rf.com/images/maryvalery/maryvalery1604/maryvalery160400016/55364035-pizza-seamless-pattern-delicious-slice-of-pizza-background-traditional-italian-food-ornament-texture.jpg')
+    background-image:url('https://www.kitchentreaty.com/wp-content/uploads/2017/02/how-to-make-heart-shaped-pizzas-featured-660x430.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 #sectionTitle{
     text-decoration: underline;
@@ -45,4 +51,32 @@ body{
 }
 #visit{
     background-color: white;
+}
+.pizza{
+    border: 1px solid black;
+}
+.pizzaName{
+    font-family: 'Oswald', sans-serif;
+    text-decoration: underline;
+}
+.price{
+    text-align: right;
+}
+#subscribe{
+    background-image: url('https://images.all-free-download.com/images/graphiclarge/old_paper_background_hd_picture_2_169574.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#deal{
+    text-align: right;
+}
+#visit{
+    background-image: url('https://images.all-free-download.com/images/graphiclarge/old_paper_background_hd_picture_2_169574.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+footer{
+    background-image: url('https://images.all-free-download.com/images/graphiclarge/old_paper_background_hd_picture_2_169574.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%
 }
